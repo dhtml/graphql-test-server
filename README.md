@@ -1,0 +1,15 @@
+$ npm install
+
+$ npm start
+The server is running in 9000 port, so we can test the application using GraphiQL tool. Open the browser and enter the URL http://localhost:9000/graphiql. Type the following query in the editor −
+
+{
+Test
+}
+The response from the server is given below −
+
+{
+"data": {
+"test": "Test Success, GraphQL server is running !!"
+}
+}
