@@ -13,3 +13,6 @@ The response from the server is given below −
 "test": "Test Success, GraphQL server is running !!"
 }
 }
+
+
+Read more about this here - https://www.tutorialspoint.com/graphql/graphql_environment_setup.htm
